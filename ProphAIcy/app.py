@@ -4,12 +4,12 @@ from pandasai import SmartDataframe
 from pandasai.llm.google_gemini import GoogleGemini
 import matplotlib
 import numpy as np
+import seaborn as sns
 import warnings
 warnings.filterwarnings("ignore",message="numpy.ufunc size changed")
 warnings.filterwarnings("ignore",message="numpy.dtype size changed, may indicate binary incompatibility")
 st.set_option('deprecation.showPyplotGlobalUse', False)
-matplotlib.use('Agg')
-import seaborn as sns
+matplotlib.use('Agg')
 def main():
     st.image("C:/Users/pranay/ProphAIcy/ProphAIcy Logo.png")
     st.title("Summarize and Visualize in a click with ProhAIcy App")
