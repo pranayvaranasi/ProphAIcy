@@ -7,10 +7,11 @@ import numpy as np
 import warnings
 warnings.filterwarnings("ignore",message="numpy.ufunc size changed")
 warnings.filterwarnings("ignore",message="numpy.dtype size changed, may indicate binary incompatibility")
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 matplotlib.use('Agg')
 import seaborn as sns
 def main():
+    st.image("C:/Users/pranay/ProphAIcy/ProphAIcy Logo.png")
     st.title("Visualize and Forecast in a click with ProhAIcy App")
     tasks = ["Summarize", "Visualize"]
     choice =  st.sidebar.selectbox("Select Task", tasks)
