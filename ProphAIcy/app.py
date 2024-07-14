@@ -50,7 +50,7 @@ def main():
             if st.checkbox("Show Duplicate Rows"):
                 st.write(df.duplicated().sum())
             if st.checkbox("Chat with ProphAIcy"):
-                llm= GoogleGemini(api_key='AIzaSyBNkBBzOyq1rygpG_cg7CRwW6yUhD7nj_E')
+                llm= GoogleGemini(api_key='I wish right to API key is basic human right')
                 df= SmartDataframe(df,config={'llm':llm})
                 query = st.text_input("Ask ProphAIcy a question")
                 if query != "":
@@ -131,7 +131,7 @@ def main():
                         st.write(sns.jointplot(x=df[i], y=df[i+1]))
                         st.pyplot()
             if st.checkbox("Visualize with ProphAIcy"):
-                llm= GoogleGemini(api_key='AIzaSyBNkBBzOyq1rygpG_cg7CRwW6yUhD7nj_E')
+                llm= GoogleGemini(api_key='I wish right to API key is basic human right')
                 df= SmartDataframe(df,config={'llm':llm})
                 query = st.text_input("Ask ProphAIcy to visualize")
                 if query != "":
