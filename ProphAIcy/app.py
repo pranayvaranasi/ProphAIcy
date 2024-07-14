@@ -12,7 +12,7 @@ matplotlib.use('Agg')
 import seaborn as sns
 def main():
     st.image("C:/Users/pranay/ProphAIcy/ProphAIcy Logo.png")
-    st.title("Visualize and Forecast in a click with ProhAIcy App")
+    st.title("Summarize and Visualize in a click with ProhAIcy App")
     tasks = ["Summarize", "Visualize"]
     choice =  st.sidebar.selectbox("Select Task", tasks)
     if choice == 'Summarize':
