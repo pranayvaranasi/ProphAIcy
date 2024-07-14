@@ -54,6 +54,19 @@ ProphAIcy is a simple web app built with Streamlit that summarizes and visualize
      users chat with their dataset
 
 # Demonstration 
-   
+Click on the image below for video demonstration 👇
+
+[![ProphAIcy Demonstration](https://github.com/user-attachments/assets/fd955f1c-0f50-4665-83ca-5de43504b3be)
+)](https://youtu.be/axbWaOkE9SM)
+
+
+# Tools Used : 
+
+![Streamlit](https://github.com/user-attachments/assets/120a0414-6100-4c12-972b-e028454c2654) ![Pandas](https://github.com/user-attachments/assets/28d97b46-c4cd-4cf9-b853-8051929c4c47) ![Seaborn](https://github.com/user-attachments/assets/20af27bf-822f-4b3b-8f0b-a81c3ecf75d5) ![PandasAI](https://github.com/user-attachments/assets/2a0c263a-55fc-4564-8798-b65ef339ea42) ![Gemini](https://github.com/user-attachments/assets/93bdf1c4-69ca-404e-9e5d-15ebc7cf0564) ![VS Code](https://github.com/user-attachments/assets/82c44c5b-807e-4fbd-b3ab-633a814d753c)
+
+
+# Skills
+
+Web Development, Generative AI, Frontend, API Integration, Data Visualization, Data Analysis
    
    
