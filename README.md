@@ -67,6 +67,6 @@ Click on the image below for video demonstration 👇
 
 # Skills
 
-Web Development, Generative AI, Frontend, API Integration, Data Visualization, Data Analysis
+Web Development, Generative AI, Frontend, Backend, API Integration, Data Visualization, Data Analysis
    
    
